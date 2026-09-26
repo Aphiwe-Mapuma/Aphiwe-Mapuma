@@ -23,7 +23,7 @@ I enjoy working with data to clean, analyse, and communicate insights that can s
   - Handled missing and inconsistent data
   - Standardised dates and text fields
   - Removed any columns or rows that are unnecessary
-  - <a href="YOUR-SQL-PROJECT-LINK">View Project</a>
+  - <a href="[YOUR-SQL-PROJECT-LINK](https://github.com/Aphiwe-Mapuma/Layoffs-Data-Cleaning-Using-SQL)">View Project</a>
 
 <h2>🛠️ Skills & Tools</h2>
 
@@ -62,7 +62,7 @@ I enjoy working with data to clean, analyse, and communicate insights that can s
 
 <a href="YOUR-LINKEDIN-LINK">LinkedIn</a>
 &nbsp; | &nbsp;
-<a href="mailto:YOUR-EMAIL">Email</a>
+<a href="aphiwemapuma205@gmail.com">Email</a>
 
 <br><br>
 
