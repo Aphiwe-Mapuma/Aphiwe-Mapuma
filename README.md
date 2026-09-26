@@ -8,11 +8,11 @@ I am currently pursuing a Postgraduate Diploma in Data Science at the University
 </p>
 
 <p>
-I have a background in Geography and Environmental Studies and am developing my skills in data analysis, programming, machine learning, statistics, and data visualisation.
+I have a background in Geography and Environmental Studies and am developing my skills in data analysis, programming, machine learning, statistics and data visualisation.
 </p>
 
 <p>
-I enjoy working with data to clean, analyse, and communicate insights that can support better decision-making.
+I enjoy working with data to clean, analyse and communicate insights that can support better decision-making.
 </p>
 
 <h2>📊 Data Science & Analytics Projects</h2>
