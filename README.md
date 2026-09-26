@@ -60,7 +60,7 @@ I enjoy working with data to clean, analyse, and communicate insights that can s
 
 <h2>🤝 Connect with Me</h2>
 
-<a href="www.linkedin.com/in/aphiwe-mapuma-b1168b40a</a>
+<a href="https://www.linkedin.com/in/aphiwe-mapuma-b1168b40a">LinkedIn</a>
 &nbsp; | &nbsp;
 <a href="mailto:aphiwemapuma205@gmail.com">Email</a>
 <br><br>
