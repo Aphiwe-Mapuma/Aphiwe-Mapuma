@@ -1,5 +1,5 @@
 <h1>Hi, I'm Aphiwe! 👋 <br>
-<a href="YOUR-GITHUB-LINK">PGDip Data Science Student</a> | Aspiring Data Scientist</h1>
+<a href="https://github.com/Aphiwe-Mapuma">PGDip Data Science Student</a> | Aspiring Data Scientist</h1>
 
 <h2>👨🏽‍💻 About Me</h2>
 
@@ -17,14 +17,18 @@ I enjoy working with data to clean, analyse and communicate insights that can su
 
 <h2>📊 Data Science & Analytics Projects</h2>
 
-- <b>SQL Data Cleaning Project</b>
+- <b>SQL Data Cleaning & Exploratory Data Analysis Project</b>
   - Cleaned and prepared a real-world layoffs dataset using MySQL
   - Identified and removed duplicate records
   - Handled missing and inconsistent data
   - Standardised dates and text fields
-  - Removed any columns or rows that are unnecessary
-  - Used CTEs and window functions for data cleaning
-  - <a href="https://github.com/Aphiwe-Mapuma/Layoffs-Data-Cleaning-Using-SQL">View Project</a>
+  - Removed unnecessary records
+  - Analysed layoffs by company, industry, country, year and stage
+  - Examined monthly layoffs and calculated a cumulative rolling total
+  - Identified the top five companies by layoffs for each year
+  - Used CTEs and window functions for data cleaning and analysis
+  - <a href="https://github.com/Aphiwe-Mapuma/Layoffs-Data-Cleaning-and-EDA-Using-SQL">View Project</a>
+
 <h2>🛠️ Skills & Tools</h2>
 
 - <b>Programming:</b> Python, SQL
@@ -66,7 +70,7 @@ I enjoy working with data to clean, analyse and communicate insights that can su
 <br><br>
 
 <p>
-I am currently building my data science portfolio through practical projects involving SQL, Python, data analysis, machine learning, and data visualisation.
+I am currently building my data science portfolio through practical projects involving SQL, Python, data analysis, machine learning and data visualisation.
 </p>
 
 <p>
